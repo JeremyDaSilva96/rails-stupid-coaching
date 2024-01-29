@@ -13,36 +13,3 @@
  *= require_tree .
  *= require_self
  */
-body {
-  background-color: #f8f9fa;
-  padding-top: 60px; /* Ajustez la marge supérieure en fonction de votre barre de navigation si vous en avez une */
-}
-
-form {
-  margin: 20px;
-}
-
-/* Style Bootstrap pour les boutons */
-.btn-primary {
-  background-color: #007bff;
-  color: #fff;
-}
-
-.btn-primary:hover {
-  background-color: #0056b3;
-}
-
-/* Style personnalisé pour les paragraphes */
-p {
-  font-size: 18px;
-  color: #333;
-}
-
-/* Style Bootstrap pour les liens */
-a {
-  color: #007bff;
-}
-
-a:hover {
-  color: #0056b3;
-}
